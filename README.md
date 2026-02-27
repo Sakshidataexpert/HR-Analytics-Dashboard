@@ -72,19 +72,19 @@ Average Age: 37
 
 Provides a quick overview of workforce health.
 
-🔹 Department-wise Attrition (Pie Chart)
+🔹 Department-wise Attrition (Pie Chart) : 
 Displays attrition distribution across HR, R&D, and Sales departments.
 
-🔹 Employee Distribution by Age Group (Bar Chart)
+🔹 Employee Distribution by Age Group (Bar Chart) : 
 Shows workforce segmentation by age bands, helping identify concentration of employees across career stages.
 
-🔹 Job Satisfaction Rating (Matrix Heatmap)
+🔹 Job Satisfaction Rating (Matrix Heatmap) : 
 Breaks down job satisfaction levels by role, highlighting areas of low engagement that may influence attrition.
 
-🔹 Attrition Rate by Gender & Age Group (Donut Charts)
+🔹 Attrition Rate by Gender & Age Group (Donut Charts) : 
 Analyzes turnover trends across different age brackets and gender categories to uncover demographic risk segments.
 
-🔹 Education Field-wise Attrition (Bar Chart)
+🔹 Education Field-wise Attrition (Bar Chart) : 
 Identifies which educational backgrounds experience higher attrition levels.
 
 🔹 Interactive Filters
@@ -113,3 +113,4 @@ All visuals update in real-time based on selections.
 • Data-Driven Talent Management – Enables leadership to reduce turnover and improve engagement.
 
 ## Screenshots / Demo
+https://github.com/Sakshidataexpert/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
